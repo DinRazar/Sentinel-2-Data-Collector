@@ -75,8 +75,7 @@ curl http://127.0.0.1:8000/health
 cd frontend
 streamlit run streamlit_app.py
 ```
-
-Streamlit использует `st_folium()` для получения bbox с карты и отправляет запросы в FastAPI.
+<img width="1440" height="654" alt="Снимок экрана 2026-05-24 в 3 22 43 PM" src="https://github.com/user-attachments/assets/1cabd17e-e9e7-42fc-88c1-b22afadfbfa8" />
 
 ## Как использовать
 
